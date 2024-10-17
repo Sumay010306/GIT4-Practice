@@ -1,3 +1,3 @@
 # PRACTICE FOR LINEAR REGRESSION
 
-description.
+Storing all my practices of Linear regression.
